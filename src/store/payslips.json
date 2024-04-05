@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1110,
+        "fromDate": "2023-11-01",
+        "toDate": "2023-11-30",
+        "amount": 2100,
+        "currency": "$",
+        "file": "/payslip.pdf"
+    },
+    {
+        "id": 1111,
+        "fromDate": "2023-12-01",
+        "toDate": "2023-12-31",
+        "amount": 1200,
+        "currency": "$",
+        "file": "/payslip.pdf"
+    },
+    {
+        "id": 1112,
+        "fromDate": "2024-01-01",
+        "toDate": "2024-01-31",
+        "amount": 2200,
+        "currency": "$",
+        "file": "/payslip.pdf"
+    },
+    {
+        "id": 1113,
+        "fromDate": "2024-02-01",
+        "toDate": "2024-02-29",
+        "amount": 1700,
+        "currency": "$",
+        "file": "/payslip.pdf"
+    },
+    {
+        "id": 1114,
+        "fromDate": "2024-03-01",
+        "toDate": "2024-03-31",
+        "amount": 2500,
+        "currency": "$",
+        "file": "/payslip.pdf"
+    }
+]
